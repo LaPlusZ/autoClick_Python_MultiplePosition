@@ -1,0 +1,1 @@
+# autoClick_Python_MultiplePosition
